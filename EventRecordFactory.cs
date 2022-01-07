@@ -20,7 +20,7 @@ namespace NPOI.HSSF.EventModel
     using System.IO;
     using System.Collections;
     using NPOI.HSSF.Record;
-
+    public int a;
 
     /**
      * Event-based record factory.  As opposed to RecordFactory
